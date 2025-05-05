@@ -1,5 +1,0 @@
-Hola Jordi 
-¿Como va todo? Estoy viendo la clase y prácticando que esta semana no eh podido asistir en directo.
-Al principio no conseguía que me cambiase la rama en el ID pero ya está solucionado y se porqué (lo hacia 
-sobre la carpeta y no sobre el archivo). 
-Bueno sigo

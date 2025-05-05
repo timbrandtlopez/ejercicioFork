@@ -1,8 +1,8 @@
-# ejercicioFork
-Modificación Readme.
 # Ejercicio de fork usa en clase
 
 Repositorio usado para la sesión de GitHub de Prometeo
+
+-> Esta línea ha sido añadida por Tim
 
 #Estas líneas de código están añadidas por Diego
 
